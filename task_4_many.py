@@ -10,3 +10,4 @@ def clients_write_listen(port, ip, amount_client):
 if __name__ == '__main__':
     num_client = int(input('Количество клиентов: '))
     clients_write_listen('8888', '127.0.0.1', num_client)
+

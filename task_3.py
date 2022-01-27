@@ -44,3 +44,4 @@ def eq_list(lst_f, lst_s):
 
 if __name__ == '__main__':
     host_range_ping_tab('10.0.0.0/24', 4)
+
