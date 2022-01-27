@@ -19,3 +19,4 @@ def host_ping(lst):
 if __name__ == '__main__':
     addresses = ['10.0.5.10', 'localhost', '192.168.0.1', 'yankjkdex.ru', '80.0.1.15']
     host_ping(addresses)
+

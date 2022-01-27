@@ -28,3 +28,4 @@ def host_range_ping(ip, ip_range, start_ip_range=0):
 
 if __name__ == '__main__':
     host_range_ping('5.255.255.0/24', 5, start_ip_range=74)
+
